@@ -13,8 +13,8 @@ Has the following functionalities
 
 Example:
 ```
-mymkdir("/dir1")
-mymkdir("/dir1/dir2")
-mylistdir() will check the dir we are currently in - contents of dir1, which should be dir2
+sh> mymkdir("/dir1")
+sh> mymkdir("/dir1/dir2")
+sh> mylistdir() will check the dir we are currently in - contents of dir1, which should be dir2
 ```
 note: mymkdir changes the current dir location to the dir before target, in this case dir1
