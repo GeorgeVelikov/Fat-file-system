@@ -11,8 +11,8 @@ Has the following functionalities
 - remove file/dir				- myremove("location/target")
 - mychdir					- not properly implemented, can be sort of seen in mymkdir
 
-> 'mymkdir("/dir1")'
-> 'mymkdir("/dir1/dir2")'
-> 'mylistdir() will check the dir we are currently in - contents of dir1, which should be dir2'
+'mymkdir("/dir1")'
+'mymkdir("/dir1/dir2")'
+'mylistdir() will check the dir we are currently in - contents of dir1, which should be dir2'
 
 note: mymkdir changes the current dir location to the dir before target, in this case dir1
