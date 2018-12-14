@@ -1,5 +1,4 @@
 Fat file system OS made with C
-Part of the assignment for CS3026 Operating Systems in University of Aberdeen
 
 Has the following functionalities
 - format					- format()
